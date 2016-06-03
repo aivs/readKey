@@ -9,7 +9,7 @@
 # Description:	   Read key on RaZberry plate. One short press activate WebIf, hold down to 10 seconds at start activate factory defautl function. One short led blink - webif activated, Long led shine for 5 seconds - factory default
 ### END INIT INFO
 
-# For any questions contact aivs@z-wave.me (Vitaliy Yurkin)
+# For any questions see issues on https://github.com/aivs/readKey
 # 02.06.2016 version 1.0
 
 function startReadKey {
